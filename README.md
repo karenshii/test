@@ -1,2 +1,3 @@
 # test
-Hoc cach su dung git
+HOC CACH SU DUNG GIT
+GIT WELCOME
